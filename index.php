@@ -23,3 +23,12 @@
          <text fill="#000" font-family="serif" font-size="24" id="svg_10" stroke="97C1A9" stroke opacity= "0.7" stroke-width="1" text-anchor="middle" transform="rotate(-85.5311 298.18 331)" x="298" xml:space="preserve" y="339">Love</text>
         </g>
        </svg>
+	
+	<style>
+.body {
+  background-color: #e6fff2;
+  font-family: Times new roman;
+  margin: 0;
+  padding: 0;
+}
+</style>
