@@ -25,7 +25,7 @@
        </svg>
 	
 	<style>
-.body {
+body {
   background-color: #e6fff2;
   font-family: Times new roman;
   margin: 0;
